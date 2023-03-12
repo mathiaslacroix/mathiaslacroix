@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathiaslacroix
-- 👀 I’m interested in ... understanding development
-- 🌱 I’m currently learning ... symfony/sylius/sulu
+- 👀 I’m interested in ... understanding development to explain it
+- 🌱 I’m currently learning ... symfony/sylius/sulu/akeneo/actionsflow/githubactions/
 - 💞️ I’m looking to collaborate ... for a better life
 - 📫 How to reach me ... is easy 
 
